@@ -23,7 +23,7 @@
 
 ###
 
-<p align="center">Hey there! I'm Muhammed.<br><br>- 🔭 I’m working as MERN Stack.<br>- 📚 I'm currently learning Spring Boot.<br>- ❓ Ask me about anything related to MERN stack and related technologies</p>
+<p align="center">Hey there! I'm Muhammed.<br><br>- 🔭 I’m working as MERN Stack.<br>- 📚 I'm currently learning Angular & Spring Boot.<br>- ❓ Ask me about anything related to MERN stack and related technologies</p>
 
 ###
 
